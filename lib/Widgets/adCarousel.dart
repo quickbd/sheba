@@ -76,7 +76,7 @@ class _AdsState extends State<Ads> {
                           spacing: 6,
                           dotColor: Colors.grey, // Use Colors.grey directly
                           activeDotColor: Colors.orange,
-                          paintStyle: PaintingStyle.fill, 
+                          paintStyle: PaintingStyle.fill,
                         ),
                       ),
                     ),
